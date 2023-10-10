@@ -1,0 +1,24 @@
+.create-note {
+    background-color: white;
+    color: #07C7A4;
+    border-radius: 10px;
+    font-size: 25px;
+    width: 814px;
+    height: 320px;
+    flex-shrink: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.create-note__create {
+    border-radius: 7px;
+    background: #07C7A4;
+    color: white;
+}
+.create-note__cancle {
+    color: #07C7A4;
+    background-color: white;
+    border: none;
+}
